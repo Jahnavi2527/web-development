@@ -1,0 +1,10 @@
+.App {
+  width: 500px;
+  margin: 60px auto;
+}
+
+.header{
+  border: 20px;
+  padding: 20px 30px;
+  white-space: 50px;
+}
